@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Uploaded files (keep folder, ignore contents)
+public/uploads/*
+!public/uploads/.gitkeep
+uploads/
+
+# Runtime / cache
+.cache/
+.tmp/
+temp/
+*.pid
+*.seed
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
